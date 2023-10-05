@@ -1,0 +1,6 @@
+diff SALIDA.txt SALIDA2.txt 
+diff misalida salida 
+Me permite ver si dos archivos son diferente, en conjunto con el comando
+./a.out < ./ENTRADA.txt > ./SALIDA3.txt
+que pasa como input entrada y guarda todo en el archivo salida me permite testear
+si mis casos de prueba son los mismos que los que me suministra el problema. 
